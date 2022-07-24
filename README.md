@@ -5,12 +5,15 @@ I am a postdoctoral researcher at the **Department of Economics** at the **Unive
 I work on Microeconomic Theory and Mathematical Economics.
 
 * * *
-#### Experience
+#### Previous experience
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| from 2021 | Department of Economics, Università Ca' Foscari | Post-doc researcher |
-| 2020 | Department of Economics, Università Ca' Foscari | Adjunct professor  |
+| 2020-2021 | Adjunct Professor| Department of Economics, Università Ca' Foscari |
+| 2019-2021 | Post-doc researcher | Department of Management, Università Ca' Foscari |
+| 2018-2019 | Visiting Scholar  | Johns Hopkins University  |
+| 2016-2019 | Ph.D. in Economics  |University "Federico II", Napoli |
+| 2013-2016 | Master in Mathematics | University of Udine |
+
+
 | 2019-2021 | Department of Management | Post-doc researcher |
 | 2016-2020 | Department of Econmics and Statistics, University of Napoli "Federico II" | Ph.D. in Economics |
 | 2018-2019 | Department of Economics, Johns Hopkins University | Visiting Scholar |

@@ -6,7 +6,7 @@ I work on Microeconomic Theory and Mathematical Economics.
 
 * * *
 #### Previous experience
-
+|:------|:------------------|:---------------------|
 | 2020-2021 | Adjunct Professor| Department of Economics, Università Ca' Foscari |
 | 2019-2021 | Post-doc researcher | Department of Management, Università Ca' Foscari |
 | 2018-2019 | Visiting Scholar  | Johns Hopkins University  |

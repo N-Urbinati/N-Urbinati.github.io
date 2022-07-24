@@ -4,8 +4,14 @@ I am a postdoctoral researcher at the **Department of Economics** at the **Unive
 
 I work on Microeconomic Theory and Mathematical Economics.
 
+### Research Interests:
+- Walrasian General Equilibrium Theory.
+- Modeling large societies.
+- Strategic interactions with model misspecification.
+
 * * *
 #### Previous experience
+
 | head1        | head two          | three |
 |:------|:------------------|:---------------------|
 | 2020-2021 | Adjunct Professor| Department of Economics, Università Ca' Foscari |

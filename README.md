@@ -1,3 +1,8 @@
+## About me
+
+I am a postdoctoral researcher at the **Department of Economics** at the **Università Ca' Foscari** in Venice, Italy.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/N-Urbinati/N-Urbinati.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

@@ -1,6 +1,11 @@
-## About me
+# About me
 
 I am a postdoctoral researcher at the **Department of Economics** at the **Università Ca' Foscari** in Venice, Italy.
+
+### Research interests:
+- Microeconomic Theory: Walrasian General Equilibrium, Strategic interaction under model misspecifications.
+- Mathematical Economics: Walrasian General Equilibrium, Functional analysis.
+
 
 
 ## Welcome to GitHub Pages

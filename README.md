@@ -5,6 +5,15 @@ I am a postdoctoral researcher at the **Department of Economics** at the **Unive
 I work on Microeconomic Theory and Mathematical Economics.
 
 * * *
+#### Experience
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| 2016         | Master Degree in Mathematics | University of Udine, IT  |
+| 2019 | PH.D. in Economics   | University of Napoli ''Federico II''  |
+| 2018           | Johns Hopkins University      | Visiting Scholar   |
+| ok           | good `zoute` drop | yumm  |
+
 
 ### Research interests:
 - Microeconomic Theory: Walrasian General Equilibrium, Strategic interaction under model misspecifications.

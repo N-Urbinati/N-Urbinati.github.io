@@ -9,10 +9,13 @@ I work on Microeconomic Theory and Mathematical Economics.
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| 2016         | Master Degree in Mathematics | University of Udine, IT  |
-| 2019 | PH.D. in Economics   | University of Napoli ''Federico II''  |
-| 2018           | Johns Hopkins University      | Visiting Scholar   |
-| ok           | good `zoute` drop | yumm  |
+| from 2021 | Department of Economics, Università Ca' Foscari | Post-doc researcher |
+| 2020 | Department of Economics, Università Ca' Foscari | Adjunct professor  |
+| 2019-2021 | Department of Management | Post-doc researcher |
+| 2016-2020 | Department of Econmics and Statistics, University of Napoli "Federico II" | Ph.D. in Economics |
+| 2018-2019 | Department of Economics, Johns Hopkins University | Visiting Scholar |
+| 2013-2016 | Department of Mathematics and Informatics, University of Udine | Master Degree in Mathematics|
+
 
 
 ### Research interests:
